@@ -1,2 +1,2 @@
-# typedefs
-Type definitions for our apps and Packages
+# @clashperk/node
+Type Definitions, Packages, and Models for clashperk Bot, RPC and API
