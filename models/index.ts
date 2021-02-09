@@ -1,5 +1,5 @@
-import type { ClanWarClan, ClanWarOpponent } from 'clashofclans.js';
-import type { ObjectId } from 'mongodb';
+import { ClanWarClan, ClanWarOpponent } from 'clashofclans.js';
+import { ObjectId } from 'mongodb';
 
 export interface ClanMembers {
     _id: ObjectId;
