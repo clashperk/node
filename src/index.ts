@@ -28,6 +28,7 @@ export enum Collections {
 	CLAN_WARS = 'ClanWars',
 	CLAN_GAMES = 'ClanGames',
 	CWL_WAR_TAGS = 'CWLWarTags',
+	CWL_GROUPS = 'CWLGroups',
 	CLAN_MEMBERS = 'ClanMembers',
 
 	// BOT_STATS
