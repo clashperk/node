@@ -60,7 +60,7 @@ export class ClanGames {
         endTime.setDate(this.STARTING_DATE + 6);
         endTime.setHours(10, 0, 0, 0);
 
-        return new Date() >= startTime && new Date <= endTime;
+        return new Date() >= startTime && new Date() <= endTime;
     }
 
     public static get MAX_TOTAL() {
